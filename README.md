@@ -13,7 +13,7 @@
 4. Imbalanced Dataset was handled using SMOTE
 
 # Model
-we train 3 model which is Random Forest, Logistic Regression, Gaussian NB  to find the best one. 
+we trained 3 model which is Random Forest, Logistic Regression, Gaussian NB  to find the best one. 
 
 ## Result
 ![download](https://github.com/Theophilus03/Rain-prediction-ML/assets/114735443/1905baf2-3172-4124-8494-1792c337ff9c)
