@@ -10,7 +10,7 @@ A mahine learning project to predict whether it will rain tomorrow or not by usi
 1. Handling missing data (drop column with > 38% missing value and fill NaNs with column medians for the other)
 2. Handling outlier with IQR method
 3. Feature Engineering (label encoding and mapping wind direction labels to degrees)
-4. Imbalanced Dataset was handled using SMOTE
+4. Handling imbalance Dataset with SMOTE (Synthetic Minority Oversampling Technique)
 
 ## Model
 we trained 3 model which is Random Forest, Logistic Regression, Gaussian NB  to find the best one. 
