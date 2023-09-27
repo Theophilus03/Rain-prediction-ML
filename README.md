@@ -1,6 +1,6 @@
 # Rain-prediction-ML
 ![unnamed](https://github.com/Theophilus03/Rain-prediction-ML/assets/114735443/1e84ee4f-6cb5-4719-9cf4-bef459f1a74d)
-
+A mahine learning project to predict whether it will rain tomorrow or not by using the Rainfall in Australia dataset. Those models will be evaluated using f1-score and AUC.
 
 ## Workflow
 # Data Collection
